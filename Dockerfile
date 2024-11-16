@@ -1,4 +1,4 @@
-FROM ghcr.io/stackexchange/dnscontrol:4.12.5@sha256:6fd8aa6b75ea49c4f7e154e91636762d3df5c395bcee380f9f092657e4cdfc4b
+FROM ghcr.io/stackexchange/dnscontrol:4.14.3@sha256:eb528feb52f28286c7e534a7ab97f2d0314665fea023c71d5e79e3f88bc75152
 
 LABEL repository="https://github.com/chrisbrownie/dnscontrol-action"
 LABEL maintainer="Chris Brown <chris@chrisbrown.au>"
